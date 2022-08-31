@@ -1,0 +1,10 @@
+delete from C_order
+delete from Membership
+delete from customer
+delete from clothe
+delete from customer_club
+delete from Branch_phone_number
+delete from Branch
+delete from central_office
+delete from Office_Manager
+delete from Branch_manager
